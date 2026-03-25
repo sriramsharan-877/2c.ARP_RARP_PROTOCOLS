@@ -71,7 +71,8 @@ c.close()
 ## OUPUT - ARP
 ### client
 <img width="727" height="282" alt="image" src="https://github.com/user-attachments/assets/1e90455f-7814-4282-b173-c3082f1050a6" />
-### server:
+
+### server
 <img width="713" height="288" alt="image" src="https://github.com/user-attachments/assets/ac7bbf02-e0aa-4394-8f33-18b41b4366dc" />
 
 
